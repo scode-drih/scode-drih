@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world!Olá todo mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Eu sou Drielly Soares!
-### 👩‍💻 Sou estudante de Ciência da Computação e apaixonada por tecnologia e programação.
+### 👩‍💻 Sou estudante de Ciência da Computação, apaixonada por tecnologia e programação.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
   
