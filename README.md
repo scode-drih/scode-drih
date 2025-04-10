@@ -1,37 +1,57 @@
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world!Olá todo mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# 👋 Hello, world! Olá, mundo! 🌍
 
-### Eu sou Drielly Soares!
-### 👩‍💻 Sou estudante de Ciência da Computação, apaixonada por tecnologia e programação.
+## Eu sou a Drielly Soares!
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-#### 🚀 Meu objetivo é está em constante aprendizado, assim posso crescer profissionalmente e de forma interpessoal, deixando sempre um impacto positivo em tudo pelo qual tenho a oportunidade de passar.
+🎓 Estudante de Ciência da Computação apaixonada por **tecnologia** e **programação**. Estou em transição de carreira e em constante evolução, com foco no desenvolvimento web e aprendizado de novas tecnologias.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-#### 👨🏻‍💻 Tecnologias em constante desenvolvemento no meu aprendizado, mas já tenho domínio.
+### 🎯 Objetivo
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+💡 Estou sempre aprendendo para crescer profissionalmente e como pessoa. Busco **deixar um impacto positivo** em tudo que faço e em todos os lugares por onde passo.
 
-#### 🖥️🌱 Atualmente estou estudando para aprimoramento de conhecimento:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+---
 
+### 🛠️ Tecnologias que já estou utilizando:
 
-### 🖥️👣  Proximos passos:
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-#### ⚡ Curiosidades: 📷 Amo fotografar ao ar livre. Também gosto de praticar esportes. 
+### 📚 Atualmente estudando:
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-🌐 Onde me encontrar?
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driellyalbuquerque/)
+### 🔜 Próximos passos:
 
-[![Fale comigo no WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592993745631)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+---
+
+### 🧩 Curiosidades sobre mim
+
+- 📸 Amo fotografar ao ar livre  
+- 🏃‍♀️ Gosto de praticar esportes  
+- 🧠 Tenho paixão por aprender coisas novas  
+- 🌍 Já morei na Irlanda por 5 anos (inglês fluente!)
+
+---
+
+### 📫 Onde me encontrar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driellyalbuquerque)  
+[![WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592993745631)
+
+---
+
+⭐ Obrigada por visitar meu perfil! Sinta-se à vontade para ver meus repositórios e acompanhar minha jornada como desenvolvedora!
