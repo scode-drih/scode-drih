@@ -3,7 +3,7 @@
 <h2 align="center">Eu sou a Drielly Soares!</h2>
 
 <p align="center">
-🎓 Estudante de <strong>Ciência da Computação</strong> apaixonada por <strong>tecnologia</strong> e <strong>programação</strong>.<br>
+🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonada por <strong>tecnologia</strong> e <strong>programação</strong>.<br>
 💼 Em transição de carreira e aprendendo a cada dia, focada no desenvolvimento web e em me tornar uma desenvolvedora fullstack!
 </p>
 
